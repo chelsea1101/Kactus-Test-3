@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1B016E2-752F-4BCE-A1EE-BB611FB4D0C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 252,
+    "x": 32,
+    "y": 387
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input Line / Filled Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5B84251-4FBF-40CF-AD3D-F566C581C934_symbolID",
+      "value": "D38DBE68-3442-4B60-B949-BA4C2684376F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "69E9143E-7B00-45A1-8E5C-68FF931BEE93_stringValue",
+      "value": "Thời hạn hợp đồng gốc"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C97E163E-E595-40EE-8994-AF700C5664AE_stringValue",
+      "value": "20/10/2020"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5B84251-4FBF-40CF-AD3D-F566C581C934/CFDF861D-905D-486F-B62A-88F53DD4360B_layerStyle",
+      "value": "117DD72A-09DB-48B0-8A4D-7BF122B8B4E0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "26D9AF46-ECF4-42BB-A45F-1ED8F66C1848",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "86F84337-1A3E-4417-A5F9-2276EE1A5FA0",
+  "verticalSpacing": 0
+}

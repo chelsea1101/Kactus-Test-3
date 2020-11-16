@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "718889ED-71D4-43EC-8F9F-5CE316D4B93A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 608,
+    "width": 250,
+    "x": 0,
+    "y": -558
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0DDD592D-62F4-4FD3-90E2-9463BCEF4CB5_symbolID",
+      "value": "4A83D452-220C-4EAA-A48B-CE540E65ABD3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0DDD592D-62F4-4FD3-90E2-9463BCEF4CB5/CCC69D54-7CBE-480B-BFFB-AD77298F9976_stringValue",
+      "value": "Thanh toán thuế"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0DDD592D-62F4-4FD3-90E2-9463BCEF4CB5/80C6659C-7ADE-4D8A-81D9-E9BB5AA3793A_symbolID",
+      "value": "1313B216-FF00-4F15-AB01-F561A31E8934"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "1A4E233A-E817-49CE-A32A-E51347572F21",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03B741CD-C9D0-4DF2-AE74-DBDDEE939C9C",
+  "verticalSpacing": 0
+}
