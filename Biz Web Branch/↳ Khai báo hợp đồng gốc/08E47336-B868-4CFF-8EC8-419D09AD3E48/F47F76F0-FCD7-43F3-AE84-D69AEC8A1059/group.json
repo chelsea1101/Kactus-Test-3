@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7DC27776-6BCF-458E-9359-E3D8897A9D18",
+  "do_objectID": "F47F76F0-FCD7-43F3-AE84-D69AEC8A1059",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,81 +15,58 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 879,
+    "width": 250,
     "x": 0,
-    "y": 0
+    "y": 112
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -704,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0D6C0BBC-06A1-4701-8C84-F97FEC4258DF"
+      "class": "rectangle",
+      "id": "54A1EF38-A4BC-4642-86AA-7FC3B45E0BAA"
     },
     {
-      "class": "artboard",
-      "id": "85E22063-4A99-423D-AA67-B4003C127382"
+      "class": "symbolInstance",
+      "id": "200F4E5C-BF77-4D33-BB02-5FFE4D9ADAEF"
     },
     {
-      "class": "artboard",
-      "id": "765EE13A-1CB6-449F-BB77-EE61A3750C52"
+      "class": "symbolInstance",
+      "id": "F0D832A0-1754-4CF9-9EF9-383B7918C906"
     },
     {
-      "class": "artboard",
-      "id": "2EC45BE1-7C74-4A0D-A030-FA7FEEA266D8"
+      "class": "symbolInstance",
+      "id": "D8798190-0BD4-4382-8EDC-05100903ADC1"
     },
     {
-      "class": "artboard",
-      "id": "DD7B7FF6-5E5E-4B77-9B99-0C73F7693D59"
+      "class": "symbolInstance",
+      "id": "7010A4F3-C5E4-41C9-8262-10554D086A17"
     },
     {
-      "class": "artboard",
-      "id": "4A0E1DF4-6E12-47F8-931E-2151B0E2D0BB"
-    },
-    {
-      "class": "artboard",
-      "id": "0F7793D0-D246-4605-8ADB-BE569CD2C36C"
-    },
-    {
-      "class": "artboard",
-      "id": "A154FB43-CED7-4ADF-AE93-5E533FE89DB7"
-    },
-    {
-      "class": "artboard",
-      "id": "3DD091F7-8396-4CB3-A4FE-1EEB20774125"
-    },
-    {
-      "class": "artboard",
-      "id": "08E47336-B868-4CFF-8EC8-419D09AD3E48"
-    },
-    {
-      "class": "artboard",
-      "id": "CE355F15-0570-4CF6-8299-5E0AEABE12DD"
+      "class": "symbolInstance",
+      "id": "AF758AEA-EE18-4882-99D4-7BBE9238FB7E"
     },
     {
       "class": "group",
-      "id": "7A6EAC62-D0A1-4EC5-B9FA-9011944B1B34"
+      "id": "883CE68F-AB3F-406A-BD8C-8EA3EF6AA773"
+    },
+    {
+      "class": "group",
+      "id": "C7CBBA85-1379-4404-8B35-02AA12344005"
     }
   ],
-  "name": "↳ Khai báo hợp đồng gốc",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -128,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EAB9D8DA-90DF-41BE-945B-E4A512FAD554",
+    "do_objectID": "C3F2C851-90D4-43B0-B897-94FF37C561C0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -139,11 +116,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -458,
-    "guides": [
-    ]
   }
 }

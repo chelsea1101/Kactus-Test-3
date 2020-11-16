@@ -1,99 +1,97 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7DC27776-6BCF-458E-9359-E3D8897A9D18",
+  "do_objectID": "08E47336-B868-4CFF-8EC8-419D09AD3E48",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 0,
+    "layerOptions": 2,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 917,
+    "width": 1366,
+    "x": 2513,
+    "y": 1373
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -704,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0D6C0BBC-06A1-4701-8C84-F97FEC4258DF"
+      "class": "group",
+      "id": "F47F76F0-FCD7-43F3-AE84-D69AEC8A1059"
     },
     {
-      "class": "artboard",
-      "id": "85E22063-4A99-423D-AA67-B4003C127382"
+      "class": "symbolInstance",
+      "id": "2DE2854E-B2CD-430E-876D-7DF6FCBFEBA5"
     },
     {
-      "class": "artboard",
-      "id": "765EE13A-1CB6-449F-BB77-EE61A3750C52"
-    },
-    {
-      "class": "artboard",
-      "id": "2EC45BE1-7C74-4A0D-A030-FA7FEEA266D8"
-    },
-    {
-      "class": "artboard",
-      "id": "DD7B7FF6-5E5E-4B77-9B99-0C73F7693D59"
-    },
-    {
-      "class": "artboard",
-      "id": "4A0E1DF4-6E12-47F8-931E-2151B0E2D0BB"
-    },
-    {
-      "class": "artboard",
-      "id": "0F7793D0-D246-4605-8ADB-BE569CD2C36C"
-    },
-    {
-      "class": "artboard",
-      "id": "A154FB43-CED7-4ADF-AE93-5E533FE89DB7"
-    },
-    {
-      "class": "artboard",
-      "id": "3DD091F7-8396-4CB3-A4FE-1EEB20774125"
-    },
-    {
-      "class": "artboard",
-      "id": "08E47336-B868-4CFF-8EC8-419D09AD3E48"
-    },
-    {
-      "class": "artboard",
-      "id": "CE355F15-0570-4CF6-8299-5E0AEABE12DD"
+      "class": "symbolInstance",
+      "id": "EAB53AE7-9203-4D03-ADAB-F983F6A24FEC"
     },
     {
       "class": "group",
-      "id": "7A6EAC62-D0A1-4EC5-B9FA-9011944B1B34"
+      "id": "40DDC08B-7051-4322-BC33-3DAC5D69042E"
+    },
+    {
+      "class": "group",
+      "id": "B5F03F6A-6AA9-46E0-8A52-150A85FAE45D"
+    },
+    {
+      "class": "group",
+      "id": "78926954-01C4-4FCF-9D2A-1C718477EBEA"
     }
   ],
-  "name": "↳ Khai báo hợp đồng gốc",
+  "name": "Derivative / Khai báo hợp đồng gốc - 10 Copy",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -128,7 +126,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EAB9D8DA-90DF-41BE-945B-E4A512FAD554",
+    "do_objectID": "B7C9830E-55AE-4D9C-8871-DC416B89C260",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -140,9 +138,14 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "3DD091F7-8396-4CB3-A4FE-1EEB20774125"
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -458,
+    "base": 0,
     "guides": [
     ]
   }
