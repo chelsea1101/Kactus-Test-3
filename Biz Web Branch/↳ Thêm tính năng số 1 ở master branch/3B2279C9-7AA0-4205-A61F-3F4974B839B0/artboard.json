@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -160,7 +160,7 @@
   },
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
-      "artboardID": "6D4CA7FE-2D32-4918-9CC0-1FB9751074FC"
+      "artboardID": "3B2279C9-7AA0-4205-A61F-3F4974B839B0"
     }
   },
   "verticalRulerData": {

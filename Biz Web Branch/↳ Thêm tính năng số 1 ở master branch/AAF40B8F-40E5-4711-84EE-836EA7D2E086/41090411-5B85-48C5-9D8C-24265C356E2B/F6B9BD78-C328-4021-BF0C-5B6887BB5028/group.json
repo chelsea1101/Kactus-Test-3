@@ -1,101 +1,64 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 0.968619167804718,
-    "green": 0.9686275124549866,
-    "red": 0.9686301350593567
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "307B9D65-ED19-4E95-9F32-062FE16C8FD8",
+  "do_objectID": "F6B9BD78-C328-4021-BF0C-5B6887BB5028",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 2,
+    "layerOptions": 0,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1553,
-    "width": 1366,
-    "x": -683,
-    "y": -821
+    "height": 1168,
+    "width": 1069,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "D4802E38-8CD0-41CC-B14D-485341CE1384"
-    },
-    {
-      "class": "text",
-      "id": "D3CC3AF7-D5F3-4E32-903A-5AF8D1EF30BB"
-    },
-    {
-      "class": "rectangle",
-      "id": "0914C689-ADD6-4BAD-BD20-DD8330641972"
-    },
-    {
       "class": "symbolInstance",
-      "id": "0C77D308-4CDA-4AC7-AE90-F45F112B07A0"
+      "id": "9894D49B-699B-4366-B0FF-13E038716343"
     },
     {
       "class": "group",
-      "id": "A491BEBB-4F3C-4C9C-9D37-0FA54B9D1411"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A58AE453-C78F-4995-AD9B-46BB7BD5E87B"
+      "id": "4881BD4D-2ADF-4CB5-AAA2-0E681392D4F0"
     },
     {
       "class": "group",
-      "id": "F6770369-B8A2-4170-92AD-8B847A87F722"
+      "id": "D5256FAA-A21E-49B8-8777-457CB3F870F8"
     },
     {
       "class": "group",
-      "id": "59D29087-04AA-420D-BBF5-39A79B20AD55"
+      "id": "DA60E96F-8B6D-42A8-A450-70BBBCE3AE07"
+    },
+    {
+      "class": "group",
+      "id": "D8EF7862-BD1A-439F-8FBF-99F7EC51FFD7"
     }
   ],
-  "name": "Thêm tính năng số 1 ở master branch - 2",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop",
-    "offersLandscapeVariant": 0,
-    "width": 1024
-  },
-  "resizesContent": false,
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -130,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8D7A7BC1-098D-4B50-9502-A4ABDA0485A3",
+    "do_objectID": "B0FD1F7D-EC25-4E97-9D52-D6B36ACA428A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -141,16 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "artboardID": "307B9D65-ED19-4E95-9F32-062FE16C8FD8"
-    }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

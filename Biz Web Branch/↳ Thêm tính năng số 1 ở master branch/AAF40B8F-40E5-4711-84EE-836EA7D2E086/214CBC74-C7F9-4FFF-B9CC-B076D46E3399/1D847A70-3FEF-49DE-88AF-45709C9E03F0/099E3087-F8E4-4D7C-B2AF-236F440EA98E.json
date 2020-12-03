@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8BD3BB2E-4080-4EAC-97AB-35053095DE04",
+  "do_objectID": "099E3087-F8E4-4D7C-B2AF-236F440EA98E",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,11 +16,11 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 32,
-    "width": 32,
-    "x": 92,
-    "y": 187.25
+    "constrainProportions": false,
+    "height": 42,
+    "width": 196,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -77,9 +77,10 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0BF25863-3BA5-40ED-BB5A-B07909E13D44",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -148,7 +149,7 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": false,
-        "position": 1,
+        "position": 0,
         "thickness": 1
       }
     ],
@@ -157,7 +158,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -165,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "748AAC52-2F23-4C7E-9C7B-9107A4380D62",
+    "do_objectID": "D312E04C-31D2-47AC-B8A5-6F94CFFBF50C",
     "endMarkerType": 0,
     "fills": [
       {
@@ -173,9 +174,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -225,13 +226,28 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "307B9D65-ED19-4E95-9F32-062FE16C8FD8"
-    }
   }
 }

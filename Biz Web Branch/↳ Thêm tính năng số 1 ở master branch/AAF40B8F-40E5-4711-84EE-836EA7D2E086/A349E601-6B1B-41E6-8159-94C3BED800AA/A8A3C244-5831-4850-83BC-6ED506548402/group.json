@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96B933D-AC16-4C4D-85FF-1ED958E4291B",
+  "do_objectID": "A8A3C244-5831-4850-83BC-6ED506548402",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 170,
-    "x": 898,
+    "height": 105,
+    "width": 250,
+    "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Left_Icon / Normal",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "E1E578D7-1FAE-42A0-A2C5-5D441E4FAFE8_stringValue",
-      "value": "Tải file"
+      "class": "rectangle",
+      "id": "263004B9-8A0F-4946-8E69-2A1B3C478009"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF_symbolID",
-      "value": "86B7FB1B-0F57-4871-A735-9810ADC4C511"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/00AA1AD8-5314-4121-8C69-E22EAE5ABAFF_layerStyle",
-      "value": "4F8E20B8-F474-44F7-A4FF-17B278129535"
+      "class": "symbolInstance",
+      "id": "0FB789CD-B979-497C-B771-CB7620F245B9"
     }
   ],
+  "name": "Menu Bar",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -86,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "45E35ED7-E0D8-4A59-AC9A-4DA6007F7810",
+    "do_objectID": "54ED34C3-C8DA-4A62-A122-8E4EDB397D56",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -94,15 +89,28 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 5,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": -2,
+        "offsetY": 4,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "E8AB04FB-9093-4635-A4AD-0C907263F854",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
-    }
-  },
-  "verticalSpacing": 0
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96B933D-AC16-4C4D-85FF-1ED958E4291B",
+  "do_objectID": "2B56177A-8CD5-499E-8BBB-5CAE8BC51DB3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,41 +16,40 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 170,
-    "x": 898,
-    "y": 0
+    "width": 1068,
+    "x": 274,
+    "y": 372.999999999999
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Left_Icon / Normal",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "E1E578D7-1FAE-42A0-A2C5-5D441E4FAFE8_stringValue",
-      "value": "Tải file"
+      "class": "symbolInstance",
+      "id": "8C8390CC-FF2B-4693-B03C-2A2DE6274748"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF_symbolID",
-      "value": "86B7FB1B-0F57-4871-A735-9810ADC4C511"
+      "class": "symbolInstance",
+      "id": "F5E0F398-25B4-49C3-ADA8-C964E758C802"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/00AA1AD8-5314-4121-8C69-E22EAE5ABAFF_layerStyle",
-      "value": "4F8E20B8-F474-44F7-A4FF-17B278129535"
+      "class": "symbolInstance",
+      "id": "2B15AB27-08E3-4F49-908C-7CD5726D1A88"
     }
   ],
+  "name": "Group 7",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -86,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "45E35ED7-E0D8-4A59-AC9A-4DA6007F7810",
+    "do_objectID": "EAE8BE54-C4DE-4F06-AE94-30FA04248C3E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -97,12 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "E8AB04FB-9093-4635-A4AD-0C907263F854",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
-    }
-  },
-  "verticalSpacing": 0
+  }
 }

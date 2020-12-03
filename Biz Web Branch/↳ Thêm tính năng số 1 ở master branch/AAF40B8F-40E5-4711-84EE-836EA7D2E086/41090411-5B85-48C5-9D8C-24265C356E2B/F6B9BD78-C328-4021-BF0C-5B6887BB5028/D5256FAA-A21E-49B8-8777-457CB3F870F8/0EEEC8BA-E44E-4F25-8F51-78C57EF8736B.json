@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96B933D-AC16-4C4D-85FF-1ED958E4291B",
+  "do_objectID": "0EEEC8BA-E44E-4F25-8F51-78C57EF8736B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 170,
-    "x": 898,
+    "height": 56,
+    "width": 1068,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,23 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Left_Icon / Normal",
+  "name": "Title With Line Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "E1E578D7-1FAE-42A0-A2C5-5D441E4FAFE8_stringValue",
-      "value": "Tải file"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF_symbolID",
-      "value": "86B7FB1B-0F57-4871-A735-9810ADC4C511"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/00AA1AD8-5314-4121-8C69-E22EAE5ABAFF_layerStyle",
-      "value": "4F8E20B8-F474-44F7-A4FF-17B278129535"
+      "overrideName": "1C127F92-C50F-4FBC-9389-2F4455E2E72E_stringValue",
+      "value": "Thông tin hợp đồng gốc"
     }
   ],
   "resizingConstraint": 63,
@@ -86,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "45E35ED7-E0D8-4A59-AC9A-4DA6007F7810",
+    "do_objectID": "B04F5F96-1B47-44E6-AB1F-56F3199E83CF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,11 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E8AB04FB-9093-4635-A4AD-0C907263F854",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
-    }
-  },
+  "symbolID": "EBBE94CB-13DB-459D-A15B-E589E5290BE9",
   "verticalSpacing": 0
 }

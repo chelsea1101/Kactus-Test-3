@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96B933D-AC16-4C4D-85FF-1ED958E4291B",
+  "do_objectID": "62BB0605-2567-4FC2-AFD8-A6E367ABB2FE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,53 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 170,
-    "x": 898,
-    "y": 0
+    "height": 1121,
+    "width": 4334,
+    "x": -1891,
+    "y": -450.000000000001
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Left_Icon / Normal",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "E1E578D7-1FAE-42A0-A2C5-5D441E4FAFE8_stringValue",
-      "value": "Tải file"
+      "class": "rectangle",
+      "id": "6E45EC42-997C-4427-8D74-7EBB5544D176"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF_symbolID",
-      "value": "86B7FB1B-0F57-4871-A735-9810ADC4C511"
+      "class": "shapePath",
+      "id": "BF5BB5C4-EE5D-4A21-B166-819980FA03F9"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/00AA1AD8-5314-4121-8C69-E22EAE5ABAFF_layerStyle",
-      "value": "4F8E20B8-F474-44F7-A4FF-17B278129535"
+      "class": "rectangle",
+      "id": "7900F9B4-455A-4CAB-B188-9B1CBA039365"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE55ADEE-9C63-49E6-8B68-2EC6ED22FD19"
+    },
+    {
+      "class": "rectangle",
+      "id": "F681570A-7393-4D91-9E84-4CB2A73BE33C"
+    },
+    {
+      "class": "shapePath",
+      "id": "773D3394-2298-4691-9B3F-CC0ADE4B866A"
     }
   ],
+  "name": "-Connections",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -86,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "45E35ED7-E0D8-4A59-AC9A-4DA6007F7810",
+    "do_objectID": "EAB1FD23-4874-4DA0-A2D6-F734709893F9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,11 +109,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E8AB04FB-9093-4635-A4AD-0C907263F854",
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
+      "isConnectionsContainer": 1
     }
-  },
-  "verticalSpacing": 0
+  }
 }

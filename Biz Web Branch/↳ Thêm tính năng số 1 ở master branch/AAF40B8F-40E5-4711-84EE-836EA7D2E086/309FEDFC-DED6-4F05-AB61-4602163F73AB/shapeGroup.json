@@ -1,9 +1,8 @@
 {
-  "_class": "rectangle",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8BD3BB2E-4080-4EAC-97AB-35053095DE04",
-  "edited": false,
+  "do_objectID": "309FEDFC-DED6-4F05-AB61-4602163F73AB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,70 +12,41 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 32,
-    "width": 32,
-    "x": 92,
-    "y": 187.25
+    "constrainProportions": false,
+    "height": 12,
+    "width": 21.55680760705747,
+    "x": 794.7215961964722,
+    "y": 225.9999999999991
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Rectangle",
-  "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "class": "shapePath",
+      "id": "42382503-39C0-410A-A4AB-2052E7B4B49F"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "class": "shapePath",
+      "id": "FE30DD5F-2349-4677-B8E8-E6055621D4B3"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "class": "shapePath",
+      "id": "9AC2E18F-10EF-4872-A7AB-A2729D815680"
     }
   ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -97,8 +67,8 @@
       "dashPattern": [
       ],
       "isEnabled": true,
-      "lineCapStyle": 0,
-      "lineJoinStyle": 0
+      "lineCapStyle": 1,
+      "lineJoinStyle": 1
     },
     "borders": [
       {
@@ -106,9 +76,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.8470588235294118,
+          "green": 0,
+          "red": 0.01176470588235294
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -147,9 +117,9 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1.5
       }
     ],
     "colorControls": {
@@ -165,7 +135,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "748AAC52-2F23-4C7E-9C7B-9107A4380D62",
+    "do_objectID": "E72FEBBF-906E-407E-8E84-FD176798593E",
     "endMarkerType": 0,
     "fills": [
       {
@@ -229,9 +199,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "307B9D65-ED19-4E95-9F32-062FE16C8FD8"
-    }
-  }
+  "windingRule": 1
 }

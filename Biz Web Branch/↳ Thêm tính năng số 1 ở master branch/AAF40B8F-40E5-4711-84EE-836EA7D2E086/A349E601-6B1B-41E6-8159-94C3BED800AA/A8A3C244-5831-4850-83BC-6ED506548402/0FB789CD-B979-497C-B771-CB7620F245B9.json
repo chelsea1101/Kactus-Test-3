@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96B933D-AC16-4C4D-85FF-1ED958E4291B",
+  "do_objectID": "0FB789CD-B979-497C-B771-CB7620F245B9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 170,
-    "x": 898,
+    "height": 608,
+    "width": 250,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,23 +28,43 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Left_Icon / Normal",
+  "name": "Menu Bar",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "E1E578D7-1FAE-42A0-A2C5-5D441E4FAFE8_stringValue",
-      "value": "Tải file"
+      "overrideName": "0DDD592D-62F4-4FD3-90E2-9463BCEF4CB5/4F7E60DE-8379-4BE5-9EFB-C234CEF8EBBC_symbolID",
+      "value": "1313B216-FF00-4F15-AB01-F561A31E8934"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF_symbolID",
-      "value": "86B7FB1B-0F57-4871-A735-9810ADC4C511"
+      "overrideName": "0DDD592D-62F4-4FD3-90E2-9463BCEF4CB5/4257A4E3-DBFC-48D3-A6B8-899E3BFC373D_stringValue",
+      "value": "Thanh toán thuế"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/00AA1AD8-5314-4121-8C69-E22EAE5ABAFF_layerStyle",
-      "value": "4F8E20B8-F474-44F7-A4FF-17B278129535"
+      "overrideName": "1F11CA11-45AF-4BDE-8AE4-D6B33EC4ACD7_symbolID",
+      "value": "4A83D452-220C-4EAA-A48B-CE540E65ABD3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F11CA11-45AF-4BDE-8AE4-D6B33EC4ACD7/CCC69D54-7CBE-480B-BFFB-AD77298F9976_stringValue",
+      "value": "Vay trực tuyến"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B20595E-1ADD-4DF5-A940-363A510FAEF8_symbolID",
+      "value": "4A83D452-220C-4EAA-A48B-CE540E65ABD3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B20595E-1ADD-4DF5-A940-363A510FAEF8/80C6659C-7ADE-4D8A-81D9-E9BB5AA3793A_symbolID",
+      "value": "AA139672-FB69-4022-9095-BD92ECD40C95"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B20595E-1ADD-4DF5-A940-363A510FAEF8/CCC69D54-7CBE-480B-BFFB-AD77298F9976_stringValue",
+      "value": "Phê duyệt"
     }
   ],
   "resizingConstraint": 63,
@@ -86,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "45E35ED7-E0D8-4A59-AC9A-4DA6007F7810",
+    "do_objectID": "3E3260FE-2A60-444E-8B17-4D2DF2E412DC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,11 +118,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E8AB04FB-9093-4635-A4AD-0C907263F854",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
-    }
-  },
+  "symbolID": "03B741CD-C9D0-4DF2-AE74-DBDDEE939C9C",
   "verticalSpacing": 0
 }

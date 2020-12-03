@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "307B9D65-ED19-4E95-9F32-062FE16C8FD8",
+  "do_objectID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1553,
+    "height": 1641,
     "width": 1366,
-    "x": -683,
+    "x": 2447,
     "y": -821
   },
   "groupLayout": {
@@ -51,38 +51,54 @@
   "layers": [
     {
       "class": "text",
-      "id": "D4802E38-8CD0-41CC-B14D-485341CE1384"
+      "id": "D769C2CA-5A47-4BA0-89DD-F041AC513D74"
     },
     {
       "class": "text",
-      "id": "D3CC3AF7-D5F3-4E32-903A-5AF8D1EF30BB"
+      "id": "DFF538F4-A769-4A4E-B377-B4BDB4631F4F"
     },
     {
       "class": "rectangle",
-      "id": "0914C689-ADD6-4BAD-BD20-DD8330641972"
+      "id": "BFF6D9BA-D185-4A1C-B08B-A2344330CA37"
     },
     {
       "class": "symbolInstance",
-      "id": "0C77D308-4CDA-4AC7-AE90-F45F112B07A0"
+      "id": "3D58D027-17C7-424E-B5A6-6F5E85237BC0"
     },
     {
       "class": "group",
-      "id": "A491BEBB-4F3C-4C9C-9D37-0FA54B9D1411"
+      "id": "A349E601-6B1B-41E6-8159-94C3BED800AA"
+    },
+    {
+      "class": "group",
+      "id": "214CBC74-C7F9-4FFF-B9CC-B076D46E3399"
     },
     {
       "class": "symbolInstance",
-      "id": "A58AE453-C78F-4995-AD9B-46BB7BD5E87B"
+      "id": "FF857839-6449-4C60-9A8E-1AA6C119085C"
     },
     {
       "class": "group",
-      "id": "F6770369-B8A2-4170-92AD-8B847A87F722"
+      "id": "2B56177A-8CD5-499E-8BBB-5CAE8BC51DB3"
+    },
+    {
+      "class": "text",
+      "id": "50AFD4B3-7204-46A6-89CE-1465FCC55187"
+    },
+    {
+      "class": "text",
+      "id": "F099E6C1-5651-4349-A026-0248EE43854C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "309FEDFC-DED6-4F05-AB61-4602163F73AB"
     },
     {
       "class": "group",
-      "id": "59D29087-04AA-420D-BBF5-39A79B20AD55"
+      "id": "41090411-5B85-48C5-9D8C-24265C356E2B"
     }
   ],
-  "name": "Thêm tính năng số 1 ở master branch - 2",
+  "name": "Thêm tính năng số 1 ở master branch - 4",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -130,7 +146,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8D7A7BC1-098D-4B50-9502-A4ABDA0485A3",
+    "do_objectID": "0E16B492-2987-4E2F-9F9E-D359FA244D39",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -144,7 +160,7 @@
   },
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
-      "artboardID": "307B9D65-ED19-4E95-9F32-062FE16C8FD8"
+      "artboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
     }
   },
   "verticalRulerData": {

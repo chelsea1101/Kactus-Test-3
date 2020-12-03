@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "69F2EB98-2645-4A1D-9AC0-19F8EBCEB584",
+  "do_objectID": "F82DF04D-5F48-4D85-A49F-0365C87EC20A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 959,
-    "width": 2772,
-    "x": -1891,
-    "y": -287.75
+    "height": 56,
+    "width": 1068,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Title With Line Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "81CB9F5A-B2AA-496E-BD4B-03672304D528"
-    },
-    {
-      "class": "shapePath",
-      "id": "80723847-0113-4E75-A8BD-C8EAA86D3BAA"
-    },
-    {
-      "class": "rectangle",
-      "id": "B0EE9934-7DC5-48F4-B9FD-AD7B886E878C"
-    },
-    {
-      "class": "shapePath",
-      "id": "5D750226-DE14-417F-A42C-9CC65C0DA168"
+      "_class": "overrideValue",
+      "overrideName": "1C127F92-C50F-4FBC-9389-2F4455E2E72E_stringValue",
+      "value": "Thông tin thanh toán"
     }
   ],
-  "name": "-Connections",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FF8F27EC-4D86-450C-9601-408FD1EC4A1A",
+    "do_objectID": "09C2D8A8-C6D1-400D-8C72-68CBAEB8A63B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -101,9 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "isConnectionsContainer": 1
-    }
-  }
+  "symbolID": "EBBE94CB-13DB-459D-A15B-E589E5290BE9",
+  "verticalSpacing": 0
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96B933D-AC16-4C4D-85FF-1ED958E4291B",
+  "do_objectID": "F5E0F398-25B4-49C3-ADA8-C964E758C802",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 40,
     "width": 170,
-    "x": 898,
+    "x": 712,
     "y": 0
   },
   "hasClippingMask": false,
@@ -34,16 +34,16 @@
     {
       "_class": "overrideValue",
       "overrideName": "E1E578D7-1FAE-42A0-A2C5-5D441E4FAFE8_stringValue",
-      "value": "Tải file"
+      "value": "In giao dịch"
     },
     {
       "_class": "overrideValue",
       "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF_symbolID",
-      "value": "86B7FB1B-0F57-4871-A735-9810ADC4C511"
+      "value": "7365BF31-1137-4750-A835-E2D2FC274C95"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/00AA1AD8-5314-4121-8C69-E22EAE5ABAFF_layerStyle",
+      "overrideName": "AFC3CE62-3BF2-4C5A-A93C-1C05429D0EBF/C7E430BD-0F5C-4754-A4DE-1C49E506D770_layerStyle",
       "value": "4F8E20B8-F474-44F7-A4FF-17B278129535"
     }
   ],
@@ -86,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "45E35ED7-E0D8-4A59-AC9A-4DA6007F7810",
+    "do_objectID": "B721D581-AEC9-4C1D-936B-3B62747A7B32",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -99,10 +99,5 @@
     "windingRule": 1
   },
   "symbolID": "E8AB04FB-9093-4635-A4AD-0C907263F854",
-  "userInfo": {
-    "com.abynim.sketchplugins.userflows": {
-      "destinationArtboardID": "AAF40B8F-40E5-4711-84EE-836EA7D2E086"
-    }
-  },
   "verticalSpacing": 0
 }
